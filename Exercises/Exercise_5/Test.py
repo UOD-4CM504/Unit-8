@@ -1,5 +1,5 @@
 import pytest
-from Exercise import load_grid, max_num_in_rows, max_num_adv
+from Exercise_5 import load_grid, max_num_in_rows, max_num_adv
 
 @pytest.fixture
 def grid_3_by_3():

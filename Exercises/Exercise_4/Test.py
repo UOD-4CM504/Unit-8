@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 
 # Import the function to be tested
-from Exercise import count_letters
+from Exercise_4 import count_letters
 
 class TestLetterCount(unittest.TestCase):
     def _run_count_letters_test(self, func, input_values, expected_output, *args):

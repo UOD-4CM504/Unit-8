@@ -2,7 +2,7 @@ import unittest
 import json
 import os
 import copy
-from Exercise import save, load, add_item
+from Exercise_2 import save, load, add_item
 
 class TestMenuOperations(unittest.TestCase):
     def setUp(self):

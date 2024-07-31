@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 
 # Import the functions from your Exercise script
-from Exercise import coin_tosses, count, percentage, main
+from Exercise_3 import coin_tosses, count, percentage, main
 
 
 class TestCoinTossSimulation(unittest.TestCase):
