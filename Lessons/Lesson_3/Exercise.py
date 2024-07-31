@@ -1,9 +1,6 @@
 def number_of_lines(filename):
     """ Write your code here """
-    with open(filename, "r") as f:
-        lines = f.readlines()
-
-    return len(lines)
+    pass
 
 
 def main():
